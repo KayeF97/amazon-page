@@ -1,29 +1,29 @@
 body{
-    background-color: beige;
+    background-color:#E8EBEC;
  margin: 0px;
+ font-family: Arial, Helvetica, sans-serif;
 }
 
 #logo_1{
     
     text-align: left;
-    background-color: blue;
+    background-color:#222F3E;
     padding-left: 40px;
     
     
 }
 
 #Bar{
-    background-color: grey;
+    background-color: #354758;
     border: 2px;
     padding: 5px;
     margin:0;
     font-size: 20px;
-
 }
 
 #Bar_2{
     text-align: center;
-    background-color: orange;
+    background-color:#F56600;
     padding-top: 0.25px;
     padding-bottom: 0.25px;
     color: aliceblue;
@@ -75,12 +75,13 @@ h4{
 }
 
 #gift{
-    background-color: aliceblue;
+    background-color: #FDFDFD;
     margin-bottom: 20px;
     padding-top: 25px;
     padding-bottom: 25px;
     margin: 10px;
     text-indent: 20px;
+
 }
 
 .game_img{
@@ -94,4 +95,30 @@ h4{
     margin: 10px;
     text-align: center;
     margin-bottom: 20px;
+}
+
+#banner_2{
+    background-color: #354758;
+    text-align: center;
+    padding: 5px;
+    margin:0;
+    color: #E8EBEC;
+
+
+}
+
+#logo_2{
+    background-color: #222F3E;
+    margin: 0px;
+    padding-left: 925px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+ 
+
+}
+
+.bolded{
+    color:rgb(23, 181, 181);
+
 }
